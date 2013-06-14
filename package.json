@@ -1,0 +1,21 @@
+{
+  "name":        "hubot-scripts",
+  "version":     "0.0.1",
+  "author":      "Hans-Peter Buniat",
+  "keywords":    [
+  ],
+  "description": "my hubot scripts",
+  "licenses": [{
+  }],
+
+  "repository" : {
+  },
+
+  "dependencies": {
+    "scraper": "latest"
+  },
+  "engines": {
+    "node": ">= 0.8.x",
+    "npm":  ">= 1.1.x"
+  }
+}
